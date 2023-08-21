@@ -4,7 +4,7 @@
         "url": "https://dxb.vrcscan.com/",
         "group": "Testnets",
         "isActive": true,
-        "icon": "./dxb_config/assetes/DXB_logo-02.svg"
+        "icon": "https://raw.githubusercontent.com/virtualsole/vrc_config/main/dxb_config/assetes/DXB_logo-02.svg"
     },
     {
         "title": "Vrcscan",
