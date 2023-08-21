@@ -10,7 +10,7 @@
         "title": "Vrcscan",
         "url": "https://vrcscan.com/",
         "group": "Mainnets",
-        "icon": "./dxb_config/assetes/vrclogo.png"
+        "icon": "https://github.com/virtualsole/vrc_config/blob/main/vrc_config/asssets/vrclogo.png"
     }
    
 ]
