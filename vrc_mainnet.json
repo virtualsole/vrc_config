@@ -4,7 +4,7 @@
         "url": "https://vrcscan.com/",
         "group": "Mainnets",
         "isActive": true,
-        "icon": "https://github.com/virtualsole/vrc_config/blob/main/vrc_config/asssets/vrclogo.png"
+        "icon": "https://raw.githubusercontent.com/virtualsole/vrc_config/main/vrc_config/asssets/vrclogo.png"
     },
     {
         "title": "DXB Testnet",
